@@ -1969,7 +1969,7 @@ body {
 .cid-qw7hS3YwLn {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/img-511-2000x1500.jpg");
+  background-image: url("../../../assets/images/img-1039-2000x1500.jpg");
 }
 .cid-qw7hS3YwLn .testimonials-container {
   margin: 0 auto;
@@ -2013,7 +2013,7 @@ body {
 .cid-qwNlsZ1viJ {
   padding-top: 0px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-1625x1080.jpg");
+  background-image: url("../../../assets/images/img-1039-2000x1500.jpg");
 }
 .cid-qwNlsZ1viJ .testimonials-container {
   margin: 0 auto;
@@ -2112,77 +2112,5 @@ body {
 @media (max-width: 768px) {
   .cid-qwMOtOWu98 .image-block {
     width: 100% !important;
-  }
-}
-.cid-qwNoOX3ZZa {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-qwNoOX3ZZa h2 {
-  text-align: center;
-}
-.cid-qwNoOX3ZZa h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-qwNoOX3ZZa p {
-  color: #767676;
-}
-.cid-qwNoOX3ZZa .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-qwNoOX3ZZa .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-qwNoOX3ZZa .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-}
-.cid-qwNoOX3ZZa .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qwNoOX3ZZa .card-title {
-  font-weight: 500;
-}
-.cid-qwNoOX3ZZa .card-img {
-  text-align: inherit;
-}
-.cid-qwNoOX3ZZa .card-img span {
-  font-size: 48px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-qwNoOX3ZZa .mbr-figure {
-    padding-right: 2rem;
-    padding-left: 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qwNoOX3ZZa .mbr-figure {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-qwNoOX3ZZa .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    padding-top: 1rem;
-  }
-  .cid-qwNoOX3ZZa .block-content {
-    flex-direction: row;
-    -webkit-flex-direction: row;
-    text-align: center;
-  }
-  .cid-qwNoOX3ZZa .block-content .card {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
   }
 }
