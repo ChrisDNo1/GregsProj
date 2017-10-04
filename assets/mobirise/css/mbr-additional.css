@@ -1969,7 +1969,7 @@ body {
 .cid-qw7hS3YwLn {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/img-1039-2000x1500.jpg");
+  background-color: #ffffff;
 }
 .cid-qw7hS3YwLn .testimonials-container {
   margin: 0 auto;
@@ -2010,10 +2010,16 @@ body {
     padding: 0 2rem 2rem 2rem !important;
   }
 }
+.cid-qw7hS3YwLn H2 {
+  color: #149dcc;
+}
+.cid-qw7hS3YwLn .mbr-section-subtitle {
+  color: #149dcc;
+}
 .cid-qwNlsZ1viJ {
   padding-top: 0px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/img-1039-2000x1500.jpg");
+  background-color: #ffffff;
 }
 .cid-qwNlsZ1viJ .testimonials-container {
   margin: 0 auto;
