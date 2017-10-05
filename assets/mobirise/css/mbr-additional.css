@@ -2097,29 +2097,6 @@ body {
 .cid-qw7i7PuhaQ .team-item .item-caption {
   background: #efefef;
 }
-.cid-qwMOtOWu98 {
-  background: #ffffff;
-}
-.cid-qwMOtOWu98 .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-qwMOtOWu98 .mbr-figure {
-  margin: 0 auto;
-}
-.cid-qwMOtOWu98 figcaption {
-  position: relative;
-}
-.cid-qwMOtOWu98 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qwMOtOWu98 .image-block {
-    width: 100% !important;
-  }
-}
 .cid-qwVQF9j77r {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2175,6 +2152,29 @@ body {
 @media (max-width: 300px) {
   .cid-qwVQF9j77r .card-img span {
     font-size: 40px !important;
+  }
+}
+.cid-qx9GirqJtt {
+  background: #ffffff;
+}
+.cid-qx9GirqJtt .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qx9GirqJtt .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qx9GirqJtt figcaption {
+  position: relative;
+}
+.cid-qx9GirqJtt figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qx9GirqJtt .image-block {
+    width: 100% !important;
   }
 }
 .cid-qwVQKv98RS {
