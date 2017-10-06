@@ -31,7 +31,8 @@
     },
     "versionFirst": "4.3.0",
     "uniqCompNum": 32,
-    "versionPublish": "4.3.0"
+    "versionPublish": "4.3.0",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
