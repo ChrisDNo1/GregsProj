@@ -32,7 +32,11 @@
     "versionFirst": "4.3.0",
     "uniqCompNum": 34,
     "versionPublish": "4.3.2",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
