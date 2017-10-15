@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-09-24_1512",
+    "name": "Gregs Site",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -31,12 +31,13 @@
     },
     "versionFirst": "4.3.0",
     "uniqCompNum": 39,
-    "versionPublish": "4.3.2",
+    "versionPublish": "4.3.4",
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
